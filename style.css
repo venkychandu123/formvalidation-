@@ -1,0 +1,20 @@
+#fi,#se,#result{
+    width: 250px;
+    border: 1px solid black;
+    height: 40px;
+    margin-top: 15px;  
+}
+
+
+
+form{
+    text-align: center;
+}
+
+.button{
+    margin-top: 10px;
+}
+
+fieldset{
+    font-size: 29px;
+}
